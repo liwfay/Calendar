@@ -13,4 +13,4 @@ Java 课程设计，万年历(Java Swing)
 -	能够更改界面风格（换肤）
 -	能够设置闹钟并提醒
 
-##如果有问题可以邮箱联系lofone@icloud.com，引用的话希望star一下
+## 如果有问题可以邮箱联系lofone@icloud.com，引用的话希望star一下
